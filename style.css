@@ -1,0 +1,274 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 1110px;
+	margin: 0 auto;
+
+}
+.headercontent{
+	text-align: right;
+	padding: 38px 0;
+
+}
+header, .desine{
+	background: #EEEFF1;
+}
+.headercontent a{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 26px;
+	letter-spacing: 0.1em;
+	color: black;
+	text-decoration: none;
+	margin-left: 42px;
+}
+.desinecontent{
+	display: flex;
+	justify-content: space-between;
+	padding: 154px 0;
+
+}
+.desinecontent p{
+	width: 540px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	margin-bottom: 60px;
+	line-height: 26px;
+	color: #727272;
+}
+.desinecontent h1{
+	font-weight: 500;
+	font-size: 48px;
+	margin-bottom: 60px; 
+}
+.desinecontent button{
+	background: #34547A;
+	font-size: 16px;
+	text-align: center;
+	letter-spacing: 0.1em;
+	padding: 25px 41px;
+	color: white;
+	border: none;
+}
+.aboutcontent{
+	text-align: center;
+	padding: 112px 0px;
+}
+.aboutcontent p{
+	margin: 0 auto;
+	margin-top: 50px;
+	color: #727272;
+	font-size: 16px;
+	line-height: 26px;
+	width: 540px;
+	
+
+}
+.aboutcontent h2{
+	font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+}
+.me{
+	
+	background: #34547A;
+}
+.personcontent{
+	display: flex;
+	padding: 25px 0;
+}
+.personcontent h2{
+	padding: 50px 0 30px 0; 
+	font-weight: 500;
+	font-size: 24px;
+	line-height: 28px;
+	color: #000000;
+}
+.personcontent h1{
+	font-weight: 500;
+	font-size: 50px;
+	line-height: 59px;
+	color: #34547A;
+}
+.personcontent p {
+	padding-top: 30px;
+	font-weight: 300;
+	font-size: 21px;
+	line-height: 25px;
+	color: #000000;
+	width: 438px;
+	
+
+}
+.personcontent button{
+	background: #34547A;
+	font-size: 16px;
+	line-height: 26px;
+	text-align: center;
+	letter-spacing: 0.1em;
+	color: #FFFFFF;
+	padding: 25px 41px;
+	margin-top: 65px;
+	border: none;
+
+}
+.left{
+	
+
+}
+.personcontent img{
+	margin-top: 50px;
+}
+.formcontent h2{
+	font-weight: 500;
+	font-size: 32px;
+	line-height: 37px;
+	text-align: center;
+	color: #000000;
+	margin-bottom: 50px; 
+}
+.formcontent p{
+	font-size: 16px;
+	line-height: 26px;
+	text-align: center;
+	color: #727272;
+	margin-bottom: 65px;
+	width: 540px;
+	margin: 0 auto;
+	margin-bottom: 65px;
+
+}
+.formcontent button{
+	background: #34547A;
+	font-size: 14px;
+	line-height: 23px;
+	text-align: center;
+	letter-spacing: 0.15em;
+	color: #FFFFFF;
+	padding: 20px 19px;
+	
+	border: none;
+	margin-top: 50px;
+}
+.formcontent{
+	text-align: center;
+	padding: 100px 0;
+}
+.formcontent input{
+	width: 255px;
+	padding: 17px 0;
+	padding-left: 20px;
+	border: none;
+
+}
+.formcontent form{
+	width: 540px;
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+}
+.formcontent textarea{
+	width: 540px;
+	height: 175px;
+	border: none;
+	margin-top: 20px;
+	padding: 17px 20px;
+}
+.mecontent{
+	color: white;
+	display: flex;
+	justify-content: space-around;
+	padding: 100px 0;
+
+
+}
+
+.form{
+	background: #EEEFF1;
+}
+.mecontent img{
+	width: 50px;
+	height: 50px;
+
+}
+.img{
+	display: flex;
+	align-items: center;
+}
+.text{
+	margin-left: 20px;
+}
+.mecontent h2{
+	font-weight: 500;
+	font-size: 21px;
+	line-height: 25px;
+}
+.mecontent p{
+	font-size: 16px;
+	line-height: 26px;
+}
+.vidiocontent{
+	display: block;
+	text-align: center;
+	padding: 100px 0;
+	
+
+}
+.vidiocontent h1{
+	
+	font-weight: 500;
+	font-size: 32px;
+	line-height: 37px;
+	text-align: center;
+
+
+}
+.vidiocontent iframe{
+	margin-bottom: 57px;
+	width: 1100px;
+	height: 600px;
+}
+.vidio{
+	background: #EEEFF1;
+}
+footer{
+	background: #34547A;
+	text-align: center;
+
+
+}
+.footercontent h2{
+	font-weight: 500;
+	font-size: 21px;
+	line-height: 25px;
+	text-align: center;
+	color: #FFFFFF;
+	margin-bottom: 20px;
+
+
+}
+.footercontent p{
+	font-size: 13px;
+	line-height: 21px;
+	color: #FFFFFF;
+}
+.footercontent{
+	padding: 50px 0;
+}
+button:hover{
+	color: black;
+	background: white;
+	border: 1px black solid;
+}
+.personcontent .left img{
+	display: none;
+}
+

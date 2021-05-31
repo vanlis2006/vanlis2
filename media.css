@@ -1,0 +1,116 @@
+@media (max-width: 1200px){
+	.container{
+	width: 60%;
+	
+
+	}
+	.headercontent a{
+		display: block;
+		margin: 0;
+
+
+	}
+	.headercontent{
+		text-align: center;
+		padding: 20px 0;
+	}
+	.desinecontent img{
+		width: 100%;
+	}
+	.desinecontent{
+		display: block;
+		padding: 20px 0;
+		
+	}
+	.left{
+		padding: 0;
+	}
+	.desinecontent p{
+		width: 90%;
+	}
+	.aboutcontent p{
+		width: 90%;
+	}
+	.mecontent{
+		flex-wrap: wrap;
+		padding: 20px 0;
+	}
+	.img{
+		margin-bottom:10px; ;
+	}
+	.personcontent{
+		display: block;
+	}
+	.personcontent img{
+		width: 100%;
+	}
+	.personcontent {
+		flex-wrap: wrap;
+	}
+	.personcontent p{
+		width: 90%;
+		text-align: center;
+	}
+	.personcontent .left img{
+	display: block;
+	}
+	.personcontent .right img{
+	display: none;
+	}
+	.vidiocontent iframe{
+		width: 100%;
+		height: auto;
+		margin-bottom: 0;
+		margin-top: 10px;
+	}
+	.vidiocontent{
+		padding: 20px 0;
+	}
+	.formcontent{
+		padding: 20px 0;
+	}
+	.formcontent p{
+		width: 90%;
+		margin-bottom: 20px;
+	}
+	.formcontent form{
+		display: block;
+		width: 90%;
+	}
+	.formcontent input, .formcontent textarea{
+		width: 100%;
+		margin: 0;
+		margin-top: 10px;
+
+	}
+	.formcontent button{
+		margin-top: 10px;
+		border-radius: 10px;
+	}
+	.formcontent h2{
+		margin-bottom: 20px;
+		font-size: 20px;
+	}
+	.footercontent{
+	padding: 20px 0;
+	}
+	.aboutcontent h2, .vidiocontent h1{
+		font-size: 20px;
+	}
+	.personcontent h1{
+		font-size: 24px;
+	}
+	.personcontent h2{
+		font-size: 20px;
+	}
+	.personcontent button{
+		padding: 12px 20px;
+		margin-top: 20px;
+		font-size: 10px;
+		border-radius: 10px;
+		
+		width: 100%;
+	}
+
+	
+}
